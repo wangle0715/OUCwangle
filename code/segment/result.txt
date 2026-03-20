@@ -1,0 +1,15 @@
+unet
+Pixel Accuracy: 0.9625
+Dice Score: 0.9507
+mIoU: 0.9091
+
+deeplabv3plus
+Pixel Accuracy: 0.9664
+Dice Score: 0.9577
+mIoU: 0.9207
+
+segnet
+Pixel Accuracy: 0.9266
+Dice Score: 0.9053
+mIoU: 0.8360
+
