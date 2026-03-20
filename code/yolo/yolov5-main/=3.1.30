@@ -1,0 +1,12 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple/
+Collecting gitpython
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/1d/9a/4114a9057db2f1462d5c8f8390ab7383925fe1ac012eaa42402ad65c2963/GitPython-3.1.44-py3-none-any.whl (207 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 207.6/207.6 kB 6.2 MB/s eta 0:00:00
+Collecting gitdb<5,>=4.0.1
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/a0/61/5c78b91c3143ed5c14207f463aecfc8f9dbb5092fb2869baf37c273b2705/gitdb-4.0.12-py3-none-any.whl (62 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.8/62.8 kB 14.0 MB/s eta 0:00:00
+Requirement already satisfied: typing-extensions>=3.7.4.3 in /home/ubuntu/.conda/envs/gjy/lib/python3.7/site-packages (from gitpython) (4.3.0)
+Collecting smmap<6,>=3.0.1
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/04/be/d09147ad1ec7934636ad912901c5fd7667e1c858e19d355237db0d0cd5e4/smmap-5.0.2-py3-none-any.whl (24 kB)
+Installing collected packages: smmap, gitdb, gitpython
+Successfully installed gitdb-4.0.12 gitpython-3.1.44 smmap-5.0.2

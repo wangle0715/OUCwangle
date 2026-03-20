@@ -1,0 +1,13 @@
+path:  /media/disk1/wl/yolov10-main/datasets/true/ # dataset root dir
+train: train/images # train images (relative to 'path')  6471 images
+val:  val/images # val images (relative to 'path')  548 images
+test:  test/images # test images (optional)  1610 images
+# Classes
+nc: 6 
+names:
+  0: circle_concave
+  1: circle_convex
+  2: line_concave
+  3: line_convex
+  4: square_concave
+  5: square_convex
