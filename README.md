@@ -46,4 +46,23 @@ OUC_wangle/
 - **yolo_exp**：包含不同版本的yolo，在触觉图像和视觉图像上的训练结果csv数据
 - **edge_defect**：包含结合应用实验结果，显示缺陷的实际位置和真实位置
 
+## 安装库版本
+建议单独安装，有利于排查版本冲突
+```
+pyhon=3.8.20
+torch=1.13.1+cu116       #依赖于显卡型号
+torchvision=0.14.1+cu116 #依赖于显卡型号
+tqdm=4.66.1
+pandas=1.1.5
+numpy=1.23.1
+matplotlib=3.5.1
+six=1.6.10
+opensimplex=0.4.5.1
+opencv-python=4.10.0.84
+pybullet=3.2.6
+stable_baselines3=1.7.0
+
+```
+
+
 
