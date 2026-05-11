@@ -23,7 +23,7 @@ OUC_wangle/
 └── plot/                # 绘图目录
     ├── edge_following/  # 边缘跟随
     ├── yolo_exp/        # yolo实验
-    └── edge_defect/     # 边缘跟随与缺陷检测综合应用
+    └── edge_defect/     # 边缘跟随与缺陷检测结合应用
 ```
 
 ## 代码说明
@@ -41,11 +41,10 @@ OUC_wangle/
 - **pix2pix**：包含触觉图像、深度图像
 - **yolo**：包含缺陷的视觉图像、触觉图像
 
-
 ## 绘图说明
 
 - **edge following**：包含三种边缘跟随方法，以及不同实验物体的跟随路径txt数据
 - **yolo_exp**：包含不同版本的yolo，在触觉图像和视觉图像上的训练结果csv数据
-- **edge_defect**：包含结合应用实验结果，显示缺陷所处的实际位置和真实位置
+- **edge_defect**：包含结合应用实验结果，显示缺陷的实际位置和真实位置
 
 
