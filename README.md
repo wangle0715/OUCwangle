@@ -8,6 +8,7 @@
 
 ```
 OUC_wangle/
+├── overleaf.zip         # 论文压缩包，可导入overleaf打开
 ├── code/                # 代码目录
 │   ├── segment/         # 图像分割
 │   ├── resnet/          # ResNet回归
